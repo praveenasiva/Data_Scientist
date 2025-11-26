@@ -40,7 +40,7 @@ This repository contains a collection of **Machine Learning algorithms** organiz
 #### Regression
 - **Linear Regression** – [Linear](https://github.com/praveenasiva/regression-metrics-sales-prediction)  
   *Theory + Hands-on | Evaluation Metrics | Project: Coffee Shop Sales Prediction + Streamlit Deployment*
-- **Lasso & Ridge Regression** – [L1_L2_Regularization]([https://github.com/Praveena/Rigid](https://github.com/praveenasiva/l1-l2-regularization))
+- **Lasso & Ridge Regression** – [L1_L2_Regularization](https://github.com/praveenasiva/l1-l2-regularization)
 
 
 #### Classification
